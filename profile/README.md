@@ -33,7 +33,7 @@ Yarışmanın temel amacı; RF spektrum analizi, sinyal istihbaratı ve elektron
 - **GNSS Aldatma (Spoofing)** — GPS L1 başta olmak üzere çoklu GNSS servislerinde (GPS, GLONASS, Galileo, BeiDou) aldatma sinyali üretimi [TBD]
 ---
 
-## 🏆 Yarışma Takvimi
+## Yarışma Takvimi
 
 | Tarih | Aşama |
 |-------|-------|
